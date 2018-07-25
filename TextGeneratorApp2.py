@@ -5,7 +5,7 @@ vowels='aeiouy'
 consonants='bcdfghjklmnpqrstvwxyz'
 letters = string.ascii_lowercase
 
-#ask user for letters
+#ask user for letters --
 #L is letter
 Linput_1 = input("What letter do you want? 'v' for vowels, 'c' for consonants, 'l' for any letters: ")
 Linput_2 = input("What letter do you want? 'v' for vowels, 'c' for consonants, 'l' for any letters: ")
